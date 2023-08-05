@@ -1,7 +1,7 @@
-import 반복문테스트 from './반복문테스트';
+import AND연산자 from './AND연산자';
 
 function App() {
-  return <반복문테스트 />;
+  return <AND연산자 />;
 }
 
 export default App;
